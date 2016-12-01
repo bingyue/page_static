@@ -1,7 +1,7 @@
 {
-  "name": "page static",
-  "version": "0.1",
-  "description": "A simple static file server.",
+  "name": "page_static",
+  "version": "0.0.1",
+  "description": "simple page static server.",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
